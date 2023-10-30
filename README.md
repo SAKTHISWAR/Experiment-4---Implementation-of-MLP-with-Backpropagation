@@ -165,6 +165,31 @@ print(classification_report(y_test,predictions))
 
 ## OUTPUT 
 
+### x.head():
+
+![image](https://github.com/SAKTHISWAR/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/n1.png)
+
+
+### y.head():
+
+![image](https://github.com/SAKTHISWAR/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/n2.png)
+
+
+### Array:
+
+![image](https://github.com/SAKTHISWAR/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/n3.png)
+
+
+### Printing the predictions:
+
+![image](https://github.com/SAKTHISWAR/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/n4.png)
+
+
+### Classification report():
+
+![image](https://github.com/SAKTHISWAR/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/n5.png)
+
+
 
 ## RESULT
 Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
